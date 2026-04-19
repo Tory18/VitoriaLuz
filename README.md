@@ -7,7 +7,7 @@ Graduanda em **Engenharia de Software** pela Universidade Federal do Amazonas (U
 ### Perfil Acadêmico e Técnico
 *   **Iniciação Científica:** Bolsista de **PIBIC**, atuando na estratégia e arquitetura de sistemas de reconhecimento de voz e acessibilidade.
 *   **Idiomas:** Inglês nível **Intermediário (B2)**, com domínio em conversação e leitura técnica.
-*   **Tecnologias:** Principal é **Python**; conhecimentos em **Java**, **C**, modelagem de **Bancos de Dados Relacionais** e fundamentos basicos de **programação Web**.
+*   **Tecnologias:** Principal é **Python**; conhecimentos em **Java**, **C**, modelagem de **Bancos de Dados Relacionais** e fundamentos básicos de **programação Web**.
 *   **Interesses:** Engenharia de Software, Banco de Dados e Planejamento de Projetos.
 
 ---
@@ -20,5 +20,5 @@ Graduanda em **Engenharia de Software** pela Universidade Federal do Amazonas (U
 ---
 
 ### 📫 Contato
-*   [**LinkedIn**](https://linkedin.com)
+*   [**LinkedIn**](www.linkedin.com/in/vitoria-luz-edwards)
 *   [**E-mail**](mailto:vitoria.luz.edwards@gmail.com)
